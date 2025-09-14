@@ -5,6 +5,7 @@
 > Phiên bản gần nhất : `v15-ultimate`
 + Yêu cầu : `python3`
 ## Lệnh termux
++ `termux-setup-storage` nếu bạn tải file ở ngoài termux.
 + `pkg update && pkg upgrade`
 + `pkg install python`
 ## Cài đặt thư viện
