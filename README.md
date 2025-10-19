@@ -9,7 +9,7 @@
 + `pkg update && pkg upgrade`
 + `pkg install python`
 ## Cài đặt thư viện
-+ `pip install urllib3 pystyle rich requests pycryptodome latest_user_agents`
++ `pip install urllib3 pystyle rich requests pycryptodome latest_user_agents regex emoji`
 
 # Sử dụng
 + Chạy file `uview.dlauncher.py`
